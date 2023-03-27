@@ -18,7 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NODE" alt="NODE" width="60" height="60"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="WEBPACK" alt="WEBPACK" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT" alt="REACT" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="60" height="60"/>&nbsp;
 </div>
 
