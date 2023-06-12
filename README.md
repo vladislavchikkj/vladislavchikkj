@@ -7,7 +7,7 @@
 <div align="center">
   
 ### I'm a Front-end software engineer
-  <img src="https://cdn.dribbble.com/users/43342/screenshots/1401504/dashboard_weather_c2c.gif" title="HTML5" alt="HTML"/>&nbsp;
+ <img src="https://pa1.narvii.com/7178/8a1c7c4979c901bd077b8daf7471320a7cadd69er1-500-200_hq.gif" title="HTML5" alt="HTML"/>&nbsp;
 </div>
 <br>
 
