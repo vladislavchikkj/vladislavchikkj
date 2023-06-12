@@ -7,7 +7,7 @@
 <div align="center">
   
 ### I'm a Front-end software engineer
-  <img src="https://pa1.narvii.com/7178/8a1c7c4979c901bd077b8daf7471320a7cadd69er1-500-200_hq.gif" title="HTML5" alt="HTML"/>&nbsp;
+  <img src="[https://pa1.narvii.com/7178/8a1c7c4979c901bd077b8daf7471320a7cadd69er1-500-200_hq.gif](https://i1.wp.com/steamuserimages-a.akamaihd.net/ugc/919163934346631596/07E8E52F7914CE77736AE3183172F7E0FAF30BDE/)" title="HTML5" alt="HTML"/>&nbsp;
 </div>
 <br>
 
